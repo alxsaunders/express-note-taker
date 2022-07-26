@@ -24,12 +24,12 @@ This is an application that uses the Express.js framework to create a server-sid
 
 # Walkthrough-Video
 
-[Walkthrough Video Link]()
+[Walkthrough Video Link](https://drive.google.com/file/d/1jWcmRBDb91xBpwz1WlUDXxHCVjUiPlN5/view)
 
 
 # ScreenShots 
 
-![Screenshot](/public/assets/images/screenshot.png)
+![Screenshot](public/assets/images/screenshot.png)
 
-![Screenshot](/public/assets/images/screenshot2.png)
+![Screenshot](public/assets/images/screenshot2.png)
 
