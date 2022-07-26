@@ -1,4 +1,8 @@
-# express-note-taker
+# Express-Note-Taker
+
+## Deploy Link 
+https://note-taker212.herokuapp.com/
+
 
  ## Table-of-Contents
 
@@ -20,7 +24,7 @@ This is an application that uses the Express.js framework to create a server-sid
 
 # Walkthrough-Video
 
-[Walkthrough Video Link](https://drive.google.com/file/d/1cdjdXxhTgBQ60DZSCngl_ru_nNH5tIX3/view)
+[Walkthrough Video Link]()
 
 
 # ScreenShots 
